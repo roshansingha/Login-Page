@@ -1,3 +1,11 @@
+This project is created using bootstrap, reactstrap and react.
+
+Do the d following first;
+
+npm i bootstrap reactstrap react-social-login-buttons
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
